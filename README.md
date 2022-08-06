@@ -1,4 +1,4 @@
-# ti2-fragenkatalog
+# TI2 - Fragenkatalog
 Anki-Deck für Technische Informatik 2
 
 ## Allgemein
