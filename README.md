@@ -1,5 +1,4 @@
-# TI2 - Fragenkatalog
-Anki-Deck für Technische Informatik 2
+# Technische Informatik 2 - Fragenkatalog
 
 ## Allgemein
 Dies ist ein Anki-Kartenstapel für "Technische Informatik 2" der Universität Bremen.
